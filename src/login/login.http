@@ -1,5 +1,4 @@
 @baseurl = http://localhost:3000
-# @baseurl = https://us-central1-streamfollow.cloudfunctions.net/twitch
 
 POST {{baseurl}}/login/getUser HTTP/1.1
 Content-Type: application/json
