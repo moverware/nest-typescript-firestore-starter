@@ -13,6 +13,7 @@
 
 1. Enable Firestore for your gcp project. Use Native mode
 2. Create a collection (subsequent ones can be created via code)
+3. Add your `projectId` to the `defaultOptions` in `src/firestore/firestore.module.ts`
 
 ### Create dev service account
 
