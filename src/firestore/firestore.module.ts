@@ -17,7 +17,7 @@ interface FirestoreModuleOptions {
 // default options
 const defaultOptions: FirestoreModuleOptions = {
   optionProviderUseFactory: () => ({
-    projectId: 'qrskannerz',
+    projectId: 'myGcpProjectId',
   }),
 }
 
