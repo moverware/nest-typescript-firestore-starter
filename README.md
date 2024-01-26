@@ -30,7 +30,7 @@
 
 ## Start
 
-Run `npm start`
+Run `yarn start`
 
 ## Docker
 
